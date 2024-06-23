@@ -1,1 +1,18 @@
-# Twitter-Sentiment-Analysis
+- **Project Title:** Twitter Sentiment Analysis
+- **Overview:** Analyze sentiment in Twitter data using machine learning techniques.
+- **Dataset:** Download from Kaggle (1.6 million tweets) and place in `data/` directory.
+- **Installation:**
+  - Clone repository: `git clone https://github.com/yourusername/twitter-sentiment-analysis.git`
+  - Install dependencies: `pip install -r requirements.txt`
+- **Usage:**
+  - Navigate to project directory: `cd twitter-sentiment-analysis`
+  - Start Jupyter Notebook: `jupyter notebook`
+  - Open and run `twitter_sentiment_analysis.ipynb`
+- **Technologies Used:**
+  - Python
+  - Jupyter Notebook
+  - Scikit-learn
+  - NLTK
+  - Matplotlib
+  - Pandas
+- **Contributing:** Fork repository, make changes, submit pull request.
