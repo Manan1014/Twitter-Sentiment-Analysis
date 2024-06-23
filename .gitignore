@@ -1,0 +1,32 @@
+# Python specific
+*.pyc
+__pycache__/
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+
+# Virtual environments (e.g., virtualenv, pipenv, conda)
+venv/
+env/
+*.venv/
+
+# IDE or editor specific
+.vscode/
+.idea/
+
+# System or temporary files
+.DS_Store
+Thumbs.db
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and runtime data
+logs/
+*.log
+
+# Ignore the generated models or data files (optional)
+models/
+data/
